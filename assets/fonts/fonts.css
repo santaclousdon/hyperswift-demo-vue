@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Newake";
+  src: url("/newake.otf") format("otf"); /* Adjust the path and format as per your font file */
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./futura.ttf") format("truetype"); /* Adjust the path and format as per your font file */
+}
+@font-face {
+  font-family: "Futura-Bold";
+  src: url("./futura-bold.ttf") format("truetype");
+}
